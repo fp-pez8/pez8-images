@@ -1,0 +1,537 @@
+[
+ {
+  "serie": "Serie A",
+  "cartella": "serie-a",
+  "campionato": "serie-a/campionato.png",
+  "squadre": [
+   {
+    "nome": "AC Milan",
+    "id": "133667",
+    "file": "serie-a/squadre/AC_Milan.png"
+   },
+   {
+    "nome": "Atalanta",
+    "id": "134782",
+    "file": "serie-a/squadre/Atalanta.png"
+   },
+   {
+    "nome": "Bologna",
+    "id": "134781",
+    "file": "serie-a/squadre/Bologna.png"
+   },
+   {
+    "nome": "Cagliari",
+    "id": "134783",
+    "file": "serie-a/squadre/Cagliari.png"
+   },
+   {
+    "nome": "Como",
+    "id": "134243",
+    "file": "serie-a/squadre/Como.png"
+   },
+   {
+    "nome": "Fiorentina",
+    "id": "133674",
+    "file": "serie-a/squadre/Fiorentina.png"
+   },
+   {
+    "nome": "Frosinone",
+    "id": "133818",
+    "file": "serie-a/squadre/Frosinone.png"
+   },
+   {
+    "nome": "Genoa",
+    "id": "133675",
+    "file": "serie-a/squadre/Genoa.png"
+   },
+   {
+    "nome": "Inter Milan",
+    "id": "133681",
+    "file": "serie-a/squadre/Inter_Milan.png"
+   },
+   {
+    "nome": "Juventus",
+    "id": "133676",
+    "file": "serie-a/squadre/Juventus.png"
+   },
+   {
+    "nome": "Lazio",
+    "id": "133668",
+    "file": "serie-a/squadre/Lazio.png"
+   },
+   {
+    "nome": "Lecce",
+    "id": "133678",
+    "file": "serie-a/squadre/Lecce.png"
+   },
+   {
+    "nome": "Monza",
+    "id": "134270",
+    "file": "serie-a/squadre/Monza.png"
+   },
+   {
+    "nome": "Napoli",
+    "id": "133670",
+    "file": "serie-a/squadre/Napoli.png"
+   },
+   {
+    "nome": "Parma",
+    "id": "135728",
+    "file": "serie-a/squadre/Parma.png"
+   },
+   {
+    "nome": "Roma",
+    "id": "133682",
+    "file": "serie-a/squadre/Roma.png"
+   },
+   {
+    "nome": "Sassuolo",
+    "id": "133701",
+    "file": "serie-a/squadre/Sassuolo.png"
+   },
+   {
+    "nome": "Torino",
+    "id": "133687",
+    "file": "serie-a/squadre/Torino.png"
+   },
+   {
+    "nome": "Udinese",
+    "id": "133679",
+    "file": "serie-a/squadre/Udinese.png"
+   },
+   {
+    "nome": "Venezia",
+    "id": "134234",
+    "file": "serie-a/squadre/Venezia.png"
+   }
+  ]
+ },
+ {
+  "serie": "Serie B",
+  "cartella": "serie-b",
+  "campionato": "serie-b/campionato.png",
+  "squadre": [
+   {
+    "nome": "Arezzo",
+    "id": "134212",
+    "file": "serie-b/squadre/Arezzo.png"
+   },
+   {
+    "nome": "Ascoli",
+    "id": "133686",
+    "file": "serie-b/squadre/Ascoli.png"
+   },
+   {
+    "nome": "Avellino",
+    "id": "133858",
+    "file": "serie-b/squadre/Avellino.png"
+   },
+   {
+    "nome": "Benevento",
+    "id": "134688",
+    "file": "serie-b/squadre/Benevento.png"
+   },
+   {
+    "nome": "Carrarese",
+    "id": "134666",
+    "file": "serie-b/squadre/Carrarese.png"
+   },
+   {
+    "nome": "Catanzaro",
+    "id": "134223",
+    "file": "serie-b/squadre/Catanzaro.png"
+   },
+   {
+    "nome": "Cesena",
+    "id": "133669",
+    "file": "serie-b/squadre/Cesena.png"
+   },
+   {
+    "nome": "Cremonese",
+    "id": "134224",
+    "file": "serie-b/squadre/Cremonese.png"
+   },
+   {
+    "nome": "Empoli",
+    "id": "133695",
+    "file": "serie-b/squadre/Empoli.png"
+   },
+   {
+    "nome": "Hellas Verona",
+    "id": "134784",
+    "file": "serie-b/squadre/Hellas_Verona.png"
+   },
+   {
+    "nome": "Juve Stabia",
+    "id": "133696",
+    "file": "serie-b/squadre/Juve_Stabia.png"
+   },
+   {
+    "nome": "Mantova",
+    "id": "133845",
+    "file": "serie-b/squadre/Mantova.png"
+   },
+   {
+    "nome": "Modena",
+    "id": "133700",
+    "file": "serie-b/squadre/Modena.png"
+   },
+   {
+    "nome": "Padova",
+    "id": "135950",
+    "file": "serie-b/squadre/Padova.png"
+   },
+   {
+    "nome": "Palermo",
+    "id": "138166",
+    "file": "serie-b/squadre/Palermo.png"
+   },
+   {
+    "nome": "Pisa",
+    "id": "133859",
+    "file": "serie-b/squadre/Pisa.png"
+   },
+   {
+    "nome": "Sampdoria",
+    "id": "133683",
+    "file": "serie-b/squadre/Sampdoria.png"
+   },
+   {
+    "nome": "Südtirol",
+    "id": "134654",
+    "file": "serie-b/squadre/Sudtirol.png"
+   },
+   {
+    "nome": "Vicenza",
+    "id": "137255",
+    "file": "serie-b/squadre/Vicenza.png"
+   },
+   {
+    "nome": "Virtus Entella",
+    "id": "134633",
+    "file": "serie-b/squadre/Virtus_Entella.png"
+   }
+  ]
+ },
+ {
+  "serie": "Serie C Girone A",
+  "cartella": "serie-c-girone-a",
+  "campionato": "serie-c-girone-a/campionato.png",
+  "squadre": [
+   {
+    "nome": "AlbinoLeffe",
+    "id": "134785",
+    "file": "serie-c-girone-a/squadre/AlbinoLeffe.png"
+   },
+   {
+    "nome": "Alcione Milano",
+    "id": "143905",
+    "file": "serie-c-girone-a/squadre/Alcione_Milano.png"
+   },
+   {
+    "nome": "Arzignano Valchiampo",
+    "id": "137256",
+    "file": "serie-c-girone-a/squadre/Arzignano_Valchiampo.png"
+   },
+   {
+    "nome": "Carpi",
+    "id": "143906",
+    "file": "serie-c-girone-a/squadre/Carpi.png"
+   },
+   {
+    "nome": "Cittadella",
+    "id": "133692",
+    "file": "serie-c-girone-a/squadre/Cittadella.png"
+   },
+   {
+    "nome": "Desenzano",
+    "id": "142971",
+    "file": "serie-c-girone-a/squadre/Desenzano.png"
+   },
+   {
+    "nome": "Dolomiti Bellunesi",
+    "id": "143901",
+    "file": "serie-c-girone-a/squadre/Dolomiti_Bellunesi.png"
+   },
+   {
+    "nome": "Folgore Caratese",
+    "id": "142940",
+    "file": "serie-c-girone-a/squadre/Folgore_Caratese.png"
+   },
+   {
+    "nome": "Giana Erminio",
+    "id": "134651",
+    "file": "serie-c-girone-a/squadre/Giana_Erminio.png"
+   },
+   {
+    "nome": "Juventus Next Gen",
+    "id": "137120",
+    "file": "serie-c-girone-a/squadre/Juventus_Next_Gen.png"
+   },
+   {
+    "nome": "Lecco",
+    "id": "137116",
+    "file": "serie-c-girone-a/squadre/Lecco.png"
+   },
+   {
+    "nome": "Lumezzane",
+    "id": "134652",
+    "file": "serie-c-girone-a/squadre/Lumezzane.png"
+   },
+   {
+    "nome": "Novara",
+    "id": "133673",
+    "file": "serie-c-girone-a/squadre/Novara.png"
+   },
+   {
+    "nome": "Ospitaletto",
+    "id": "149237",
+    "file": "serie-c-girone-a/squadre/Ospitaletto.png"
+   },
+   {
+    "nome": "Pergolettese",
+    "id": "137118",
+    "file": "serie-c-girone-a/squadre/Pergolettese.png"
+   },
+   {
+    "nome": "Pro Vercelli",
+    "id": "133972",
+    "file": "serie-c-girone-a/squadre/Pro_Vercelli.png"
+   },
+   {
+    "nome": "Renate",
+    "id": "134653",
+    "file": "serie-c-girone-a/squadre/Renate.png"
+   },
+   {
+    "nome": "Trento",
+    "id": "143532",
+    "file": "serie-c-girone-a/squadre/Trento.png"
+   },
+   {
+    "nome": "Treviso",
+    "id": "133860",
+    "file": "serie-c-girone-a/squadre/Treviso.png"
+   },
+   {
+    "nome": "Union Brescia",
+    "id": "152839",
+    "file": "serie-c-girone-a/squadre/Union_Brescia.png"
+   }
+  ]
+ },
+ {
+  "serie": "Serie C Girone B",
+  "cartella": "serie-c-girone-b",
+  "campionato": "serie-c-girone-b/campionato.png",
+  "squadre": [
+   {
+    "nome": "Atalanta U23",
+    "id": "147679",
+    "file": "serie-c-girone-b/squadre/Atalanta_U23.png"
+   },
+   {
+    "nome": "Campobasso",
+    "id": "143005",
+    "file": "serie-c-girone-b/squadre/Campobasso.png"
+   },
+   {
+    "nome": "Forlì",
+    "id": "134671",
+    "file": "serie-c-girone-b/squadre/Forli.png"
+   },
+   {
+    "nome": "Grosseto",
+    "id": "138167",
+    "file": "serie-c-girone-b/squadre/Grosseto.png"
+   },
+   {
+    "nome": "Gubbio",
+    "id": "133698",
+    "file": "serie-c-girone-b/squadre/Gubbio.png"
+   },
+   {
+    "nome": "Guidonia Montecelio",
+    "id": "142983",
+    "file": "serie-c-girone-b/squadre/Guidonia_Montecelio.png"
+   },
+   {
+    "nome": "Latina",
+    "id": "134404",
+    "file": "serie-c-girone-b/squadre/Latina.png"
+   },
+   {
+    "nome": "Livorno",
+    "id": "133694",
+    "file": "serie-c-girone-b/squadre/Livorno.png"
+   },
+   {
+    "nome": "Ostiamare",
+    "id": "143023",
+    "file": "serie-c-girone-b/squadre/Ostiamare.png"
+   },
+   {
+    "nome": "Perugia",
+    "id": "134233",
+    "file": "serie-c-girone-b/squadre/Perugia.png"
+   },
+   {
+    "nome": "Pescara",
+    "id": "133685",
+    "file": "serie-c-girone-b/squadre/Pescara.png"
+   },
+   {
+    "nome": "Pianese",
+    "id": "137117",
+    "file": "serie-c-girone-b/squadre/Pianese.png"
+   },
+   {
+    "nome": "Pineto",
+    "id": "140303",
+    "file": "serie-c-girone-b/squadre/Pineto.png"
+   },
+   {
+    "nome": "Ravenna",
+    "id": "133880",
+    "file": "serie-c-girone-b/squadre/Ravenna.png"
+   },
+   {
+    "nome": "Reggiana",
+    "id": "137121",
+    "file": "serie-c-girone-b/squadre/Reggiana.png"
+   },
+   {
+    "nome": "Sambenedettese",
+    "id": "135736",
+    "file": "serie-c-girone-b/squadre/Sambenedettese.png"
+   },
+   {
+    "nome": "Spezia",
+    "id": "133879",
+    "file": "serie-c-girone-b/squadre/Spezia.png"
+   },
+   {
+    "nome": "Torres",
+    "id": "134656",
+    "file": "serie-c-girone-b/squadre/Torres.png"
+   },
+   {
+    "nome": "Vado",
+    "id": "142931",
+    "file": "serie-c-girone-b/squadre/Vado.png"
+   },
+   {
+    "nome": "Vis Pesaro",
+    "id": "137253",
+    "file": "serie-c-girone-b/squadre/Vis_Pesaro.png"
+   }
+  ]
+ },
+ {
+  "serie": "Serie C Girone C",
+  "cartella": "serie-c-girone-c",
+  "campionato": "serie-c-girone-c/campionato.png",
+  "squadre": [
+   {
+    "nome": "Audace Cerignola",
+    "id": "143032",
+    "file": "serie-c-girone-c/squadre/Audace_Cerignola.png"
+   },
+   {
+    "nome": "Bari",
+    "id": "133688",
+    "file": "serie-c-girone-c/squadre/Bari.png"
+   },
+   {
+    "nome": "Barletta",
+    "id": "134686",
+    "file": "serie-c-girone-c/squadre/Barletta.png"
+   },
+   {
+    "nome": "Casarano",
+    "id": "140300",
+    "file": "serie-c-girone-c/squadre/Casarano.png"
+   },
+   {
+    "nome": "Casertana",
+    "id": "134680",
+    "file": "serie-c-girone-c/squadre/Casertana.png"
+   },
+   {
+    "nome": "Catania",
+    "id": "133671",
+    "file": "serie-c-girone-c/squadre/Catania.png"
+   },
+   {
+    "nome": "Cavese",
+    "id": "137258",
+    "file": "serie-c-girone-c/squadre/Cavese.png"
+   },
+   {
+    "nome": "Cosenza",
+    "id": "134253",
+    "file": "serie-c-girone-c/squadre/Cosenza.png"
+   },
+   {
+    "nome": "Crotone",
+    "id": "133693",
+    "file": "serie-c-girone-c/squadre/Crotone.png"
+   },
+   {
+    "nome": "Foggia",
+    "id": "134682",
+    "file": "serie-c-girone-c/squadre/Foggia.png"
+   },
+   {
+    "nome": "Giugliano",
+    "id": "143046",
+    "file": "serie-c-girone-c/squadre/Giugliano.png"
+   },
+   {
+    "nome": "Inter Milan U23",
+    "id": "152840",
+    "file": "serie-c-girone-c/squadre/Inter_Milan_U23.png"
+   },
+   {
+    "nome": "Monopoli",
+    "id": "135956",
+    "file": "serie-c-girone-c/squadre/Monopoli.png"
+   },
+   {
+    "nome": "Picerno",
+    "id": "137451",
+    "file": "serie-c-girone-c/squadre/Picerno.png"
+   },
+   {
+    "nome": "Potenza",
+    "id": "137257",
+    "file": "serie-c-girone-c/squadre/Potenza.png"
+   },
+   {
+    "nome": "Salernitana",
+    "id": "133846",
+    "file": "serie-c-girone-c/squadre/Salernitana.png"
+   },
+   {
+    "nome": "Savoia",
+    "id": "134687",
+    "file": "serie-c-girone-c/squadre/Savoia.png"
+   },
+   {
+    "nome": "Scafatese",
+    "id": "149264",
+    "file": "serie-c-girone-c/squadre/Scafatese.png"
+   },
+   {
+    "nome": "Sorrento",
+    "id": "143030",
+    "file": "serie-c-girone-c/squadre/Sorrento.png"
+   },
+   {
+    "nome": "Team Altamura",
+    "id": "143039",
+    "file": "serie-c-girone-c/squadre/Team_Altamura.png"
+   }
+  ]
+ }
+]
